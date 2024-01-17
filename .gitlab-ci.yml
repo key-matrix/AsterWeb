@@ -1,12 +1,10 @@
-# gitLabPagesの設定YML
-## TODO
 image: alpine:latest
 pages:
   stage: deploy
   script:
-    - echo 'Nothing to do...'
+  - echo 'Nothing to do...'
   artifacts:
     paths:
-      - public/
+    - public/
   only:
-    - master
+  - main
