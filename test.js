@@ -33,3 +33,9 @@ TODO
 
 
 画像リソースフォルダ整理
+
+
+
+
+kyoheiogawa10@gmail.com
+ogawakyohei10
