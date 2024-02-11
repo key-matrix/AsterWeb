@@ -48,6 +48,7 @@ table {
 
 /*画像全般の設定*/
 img {
+  margin-left: 1%;
   border: none;
   max-width: 100%;
   height: auto;
