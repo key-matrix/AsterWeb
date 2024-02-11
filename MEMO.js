@@ -7,7 +7,7 @@
 // TODO:  ビデオ挿入　　テスト動画挿入対応→店舗確認
 // TODO トップ画面のアニメーション実装　イラストレータ必要ぽい
 // TODO　お店情報記載！＠＃＄％＾＆＊()＿＋{}L:"<>?"
-// TODO SNS連携(FB,X,Instagram,YouTube,Line)
+// TODO SNS連携(FB,X,Instagram,YouTube,Line)　:　必要ならアカウント作成から
 // TODO トップ画面のロゴアニメーション
 // TODO 画像リソースフォルダ整理
 // ----------------
