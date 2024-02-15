@@ -20,7 +20,7 @@
 
 ブランチ整理(正規ブランチ　 → 　 MAIN)
 リモートの他ブランチ ALLDelete
-公開設定 : URL 　:　 https://ogawa377.github.io/AsterWeb/
+公開設定 : URL 　:　 
 　　　　　　確認,ディレクトリ確認
 // 最終　 DELETE ファイル
 // ーーーーーーーーーーーーー
