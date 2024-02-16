@@ -1,0 +1,9 @@
+/* About画面　説明文 */
+.description {
+  text-align: center;
+}
+
+.detail {
+  text-align: left;
+  display: inline-block;
+}
