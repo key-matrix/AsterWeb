@@ -603,6 +603,7 @@ ul.icon img:hover {
 }
 .c {
   text-align: center !important;
+  color: blue;
 }
 .ws {
   width: 95%;
