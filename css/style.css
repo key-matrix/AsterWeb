@@ -57,7 +57,7 @@ img {
 
 /*section全般の設定*/
 section + section {
-  padding-top: 30px; /*sectionの間に空けるスペース*/
+  padding-top: 1%; /*sectionの間に空けるスペース*/
 }
 
 /*videoタグ*/
@@ -644,7 +644,7 @@ ul.icon img:hover {
 
   /*section全般の設定*/
   section + section {
-    padding-top: 50px; /*sectionの間に空けるスペース*/
+    padding-top: 1%; /*sectionの間に空けるスペース*/
   }
 
   /*container。サイト全体を囲むブロック。
